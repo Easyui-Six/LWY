@@ -1,0 +1,16 @@
+D:\caoyu\projects\LIMS\Master\LWY.DAL\bin\Debug\netcoreapp3.1\LWY.DAL.deps.json
+D:\caoyu\projects\LIMS\Master\LWY.DAL\bin\Debug\netcoreapp3.1\LWY.DAL.dll
+D:\caoyu\projects\LIMS\Master\LWY.DAL\bin\Debug\netcoreapp3.1\LWY.DAL.pdb
+D:\caoyu\projects\LIMS\Master\LWY.DAL\obj\Debug\netcoreapp3.1\LWY.DAL.AssemblyInfoInputs.cache
+D:\caoyu\projects\LIMS\Master\LWY.DAL\obj\Debug\netcoreapp3.1\LWY.DAL.AssemblyInfo.cs
+D:\caoyu\projects\LIMS\Master\LWY.DAL\obj\Debug\netcoreapp3.1\LWY.DAL.csproj.CoreCompileInputs.cache
+D:\caoyu\projects\LIMS\Master\LWY.DAL\obj\Debug\netcoreapp3.1\LWY.DAL.dll
+D:\caoyu\projects\LIMS\Master\LWY.DAL\obj\Debug\netcoreapp3.1\LWY.DAL.pdb
+D:\caoyu\privateproject\LWY\LWY\LWY.DAL\bin\Debug\netcoreapp3.1\LWY.DAL.deps.json
+D:\caoyu\privateproject\LWY\LWY\LWY.DAL\bin\Debug\netcoreapp3.1\LWY.DAL.dll
+D:\caoyu\privateproject\LWY\LWY\LWY.DAL\bin\Debug\netcoreapp3.1\LWY.DAL.pdb
+D:\caoyu\privateproject\LWY\LWY\LWY.DAL\obj\Debug\netcoreapp3.1\LWY.DAL.AssemblyInfoInputs.cache
+D:\caoyu\privateproject\LWY\LWY\LWY.DAL\obj\Debug\netcoreapp3.1\LWY.DAL.AssemblyInfo.cs
+D:\caoyu\privateproject\LWY\LWY\LWY.DAL\obj\Debug\netcoreapp3.1\LWY.DAL.csproj.CoreCompileInputs.cache
+D:\caoyu\privateproject\LWY\LWY\LWY.DAL\obj\Debug\netcoreapp3.1\LWY.DAL.dll
+D:\caoyu\privateproject\LWY\LWY\LWY.DAL\obj\Debug\netcoreapp3.1\LWY.DAL.pdb
