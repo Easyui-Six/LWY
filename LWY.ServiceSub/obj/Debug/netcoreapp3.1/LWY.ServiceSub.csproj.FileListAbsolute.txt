@@ -1,0 +1,17 @@
+D:\caoyu\projects\LIMS\Master\LWY.ServiceSub\bin\Debug\netcoreapp3.1\LWY.ServiceSub.deps.json
+D:\caoyu\projects\LIMS\Master\LWY.ServiceSub\bin\Debug\netcoreapp3.1\LWY.ServiceSub.dll
+D:\caoyu\projects\LIMS\Master\LWY.ServiceSub\bin\Debug\netcoreapp3.1\LWY.ServiceSub.pdb
+D:\caoyu\projects\LIMS\Master\LWY.ServiceSub\obj\Debug\netcoreapp3.1\LWY.ServiceSub.AssemblyInfoInputs.cache
+D:\caoyu\projects\LIMS\Master\LWY.ServiceSub\obj\Debug\netcoreapp3.1\LWY.ServiceSub.AssemblyInfo.cs
+D:\caoyu\projects\LIMS\Master\LWY.ServiceSub\obj\Debug\netcoreapp3.1\LWY.ServiceSub.csproj.CoreCompileInputs.cache
+D:\caoyu\projects\LIMS\Master\LWY.ServiceSub\obj\Debug\netcoreapp3.1\LWY.ServiceSub.dll
+D:\caoyu\projects\LIMS\Master\LWY.ServiceSub\obj\Debug\netcoreapp3.1\LWY.ServiceSub.pdb
+D:\caoyu\projects\LIMS\Master\LWY.ServiceSub\obj\Debug\netcoreapp3.1\LWY.ServiceSub.csprojAssemblyReference.cache
+D:\caoyu\privateproject\LWY\LWY\LWY.ServiceSub\bin\Debug\netcoreapp3.1\LWY.ServiceSub.deps.json
+D:\caoyu\privateproject\LWY\LWY\LWY.ServiceSub\bin\Debug\netcoreapp3.1\LWY.ServiceSub.dll
+D:\caoyu\privateproject\LWY\LWY\LWY.ServiceSub\bin\Debug\netcoreapp3.1\LWY.ServiceSub.pdb
+D:\caoyu\privateproject\LWY\LWY\LWY.ServiceSub\obj\Debug\netcoreapp3.1\LWY.ServiceSub.AssemblyInfoInputs.cache
+D:\caoyu\privateproject\LWY\LWY\LWY.ServiceSub\obj\Debug\netcoreapp3.1\LWY.ServiceSub.AssemblyInfo.cs
+D:\caoyu\privateproject\LWY\LWY\LWY.ServiceSub\obj\Debug\netcoreapp3.1\LWY.ServiceSub.csproj.CoreCompileInputs.cache
+D:\caoyu\privateproject\LWY\LWY\LWY.ServiceSub\obj\Debug\netcoreapp3.1\LWY.ServiceSub.dll
+D:\caoyu\privateproject\LWY\LWY\LWY.ServiceSub\obj\Debug\netcoreapp3.1\LWY.ServiceSub.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Examples\DemoAIServer.cs" />
+    <Compile Remove="Examples\DemoServer.cs" />
+  </ItemGroup>
+
+</Project>
