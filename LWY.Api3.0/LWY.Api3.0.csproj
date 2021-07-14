@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>LWY.Api3._0</RootNamespace>
+    <UserSecretsId>35c3c5cc-854e-4771-a767-20ad89a26f38</UserSecretsId>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\caoyu\privateproject\LWY\LWY\LWY.Api3.0\LWY.Api3.0.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="IOCDemo\**" />
+    <Content Remove="IOCDemo\**" />
+    <EmbeddedResource Remove="IOCDemo\**" />
+    <None Remove="IOCDemo\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.CacheOutput" Version="1.0.11.2" />
+    <PackageReference Include="Autofac" Version="6.2.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="7.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\projects\LIMS\Master\LWY.Service\LWY.Service.csproj" />
+    <ProjectReference Include="..\LWY.Common\LWY.Common.csproj" />
+    <ProjectReference Include="..\LWY.Models\LWY.Models.csproj" />
+    <ProjectReference Include="..\LWY.Service\LWY.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LWY.Api3.0.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+
+</Project>

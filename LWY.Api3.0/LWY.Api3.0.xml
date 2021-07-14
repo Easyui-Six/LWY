@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LWY.Api3.0</name>
+    </assembly>
+    <members>
+        <member name="T:LWY.Api3._0.Config.IocConfig">
+            <summary>
+            1.内置ioc  在startup里设置，在api中 构造函数注入即可使用
+            2.autofac
+            </summary>
+        </member>
+        <member name="M:LWY.Api3._0.Controllers.V2.ExamplesController.#ctor(LWY.Service.IExampleService)">
+            <summary>
+            内置ioc的构造函数注入方式
+            </summary>
+            <param name="_exampleService"></param>
+        </member>
+        <member name="M:LWY.Api3._0.Controllers.V2.ExamplesController.DemoPostA(LWY.Common.BaseWebApiRequest{System.String})">
+            <summary>
+            测试接口A
+            </summary>
+            <param name="request">入参</param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:LWY.Api3._0.Controllers.ExamplesController.#ctor(LWY.Service.IExampleService)">
+            <summary>
+            内置ioc的构造函数注入方式
+            </summary>
+            <param name="_exampleService"></param>
+        </member>
+        <member name="M:LWY.Api3._0.Controllers.ExamplesController.DemoPostA(LWY.Common.BaseWebApiRequest{System.String})">
+            <summary>
+            测试接口A
+            </summary>
+            <param name="request">入参</param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:LWY.Api3._0.Controllers.ExamplesController.DemoPostB(LWY.Common.BaseWebApiRequest{System.String})">
+            <summary>
+            测试接口B
+            </summary>
+            <param name="request">入参</param>
+            <returns></returns>
+        </member>
+        <member name="T:LWY.Api3._0.TimingFilter">
+            <summary>
+            接口耗时过滤器 使用的mvc的过滤器
+            </summary>
+        </member>
+        <member name="M:LWY.Api3._0.TimingFilter.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            功能：执行方法之前
+            
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:LWY.Api3._0.TimingFilter.OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext)">
+            <summary>
+            功能：执行方法之后
+            
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:LWY.Api3._0.TimingFilter.OnResultExecuted(Microsoft.AspNetCore.Mvc.Filters.ResultExecutedContext)">
+            <summary>
+            功能 返回Result结果之后
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:LWY.Api3._0.TimingFilter.OnResultExecuting(Microsoft.AspNetCore.Mvc.Filters.ResultExecutingContext)">
+            <summary>
+            功能：返回Result结果之前
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="T:LWY.Api3._0.ExceptionFilter">
+            <summary>
+            全局异常处理
+            </summary>
+        </member>
+        <member name="T:LWY.Api3._0.AuthorizationFilter">
+            <summary>
+            功能：身份验证
+            </summary>
+        </member>
+        <member name="M:LWY.Api3._0.Startup.ConfigureContainer(Autofac.ContainerBuilder)">
+            <summary>
+            单独注册  Autofac
+            </summary>
+            <param name="builder"></param>
+        </member>
+        <member name="T:LWY.Api.ConfigHelper">
+            <summary>
+            获取配置文件的数据
+            </summary>
+        </member>
+        <member name="M:LWY.Api.ConfigHelper.Init(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            从配置文件中将数据拿出来
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="M:LWY.Api.ConfigHelper.InitByFileName(System.String)">
+            <summary>
+            取其他配置文件的内容
+            Step：1.设置配置文件  属性设置为 始终复制
+            2.安装包   Microsoft.Extensions.Configuration
+            3.这里可以在任何地方使用
+            </summary>
+            <param name="fileName"></param>
+        </member>
+    </members>
+</doc>
