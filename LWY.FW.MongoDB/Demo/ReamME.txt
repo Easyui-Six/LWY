@@ -1,0 +1,1 @@
+1.安装 MongoDB.Bson   MongoDB.Driver  MongoDB.Driver.Core 程序包    需要 .netfarwork  的版本
