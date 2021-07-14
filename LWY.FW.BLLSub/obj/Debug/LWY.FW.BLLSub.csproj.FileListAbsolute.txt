@@ -1,0 +1,6 @@
+D:\caoyu\privateproject\LWY\LWY\LWY.FW.BLLSub\bin\Debug\LWY.FW.BLLSub.dll
+D:\caoyu\privateproject\LWY\LWY\LWY.FW.BLLSub\bin\Debug\LWY.FW.BLLSub.pdb
+D:\caoyu\privateproject\LWY\LWY\LWY.FW.BLLSub\obj\Debug\LWY.FW.BLLSub.csproj.CoreCompileInputs.cache
+D:\caoyu\privateproject\LWY\LWY\LWY.FW.BLLSub\obj\Debug\LWY.FW.BLLSub.dll
+D:\caoyu\privateproject\LWY\LWY\LWY.FW.BLLSub\obj\Debug\LWY.FW.BLLSub.pdb
+D:\caoyu\privateproject\LWY\LWY\LWY.FW.BLLSub\obj\Debug\LWY.FW.BLLSub.csprojAssemblyReference.cache
