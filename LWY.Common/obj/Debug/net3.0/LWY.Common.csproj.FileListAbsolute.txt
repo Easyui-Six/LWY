@@ -1,0 +1,4 @@
+D:\caoyu\privateproject\LWY\LWY\LWY.Common\obj\Debug\net3.0\LWY.Common.csprojAssemblyReference.cache
+D:\caoyu\privateproject\LWY\LWY\LWY.Common\obj\Debug\net3.0\LWY.Common.AssemblyInfoInputs.cache
+D:\caoyu\privateproject\LWY\LWY\LWY.Common\obj\Debug\net3.0\LWY.Common.AssemblyInfo.cs
+D:\caoyu\privateproject\LWY\LWY\LWY.Common\obj\Debug\net3.0\LWY.Common.csproj.CoreCompileInputs.cache
